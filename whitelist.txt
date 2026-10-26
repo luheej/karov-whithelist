@@ -1,0 +1,5 @@
+# Lista de acceso a KaroV
+# Una linea por persona: HWID (espacio) Nombre
+# Para dar acceso: agrega una linea abajo con su HWID (te lo manda con .hwid en el juego).
+# Para quitarle el acceso: borra su linea, o ponele un # adelante.
+# Las lineas vacias o que empiezan con # se ignoran.
